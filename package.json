@@ -1,7 +1,7 @@
 {
 	"name": "pinentry-vscode",
 	"displayName": "pinentry-vscode",
-	"description": "Pinentry extension, when you want to sign commits vscode will prompt for you passphrase. This works on ssh development!",
+	"description": "Pinentry extension, when you want to sign commits vscode will prompt for your passphrase. This works on ssh development!",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.52.0"
